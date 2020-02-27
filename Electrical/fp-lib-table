@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name pi60)(type KiCad)(uri ${KIPRJMOD}/lib/pi60.pretty)(options "")(descr ""))
+  (lib (name KK_ansi60)(type KiCad)(uri ${KIPRJMOD}/lib/KK_ansi60.pretty)(options "")(descr ""))
+)
