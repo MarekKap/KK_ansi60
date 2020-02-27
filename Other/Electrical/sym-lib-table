@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name pi60)(type Legacy)(uri ${KIPRJMOD}/lib/pi60.lib)(options "")(descr ""))
-)
