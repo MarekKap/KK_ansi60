@@ -54,11 +54,18 @@ void hook_default_layer_change(uint32_t default_layer_state)
 {
     if (default_layer_state != 0x00000001)
     {
-        led1_off();
-        led2_on();
+        led1_on();
+        led2_off();
         return;
     }
-    led2_off();
-    led1_on();
+    led2_on();
+    led1_off();
+}
+
+// Turn on dafault layer indicator led2
+// near the end of boot process
+void hook_late_init(void)
+{
+    led2_on();
 }
 
