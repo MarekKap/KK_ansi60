@@ -24,3 +24,14 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Firmware build files
+Firmware/*.eep
+Firmware/*.elf
+Firmware/*.hex
+Firmware/*.lss
+Firmware/*.map
+Firmware/*.sym
+Firmware/obj*/
+Firmware/.dep/
+
