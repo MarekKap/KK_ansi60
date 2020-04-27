@@ -7,7 +7,7 @@ solid and compact design. On the other hand only ane switch layout is supported.
 Keyboard support TMK firmware, so everything is open source and customizable. On default there
 are two base layers. Active layer is indicated with LED under FN1 or FN2 key.
 
-![title image](other/title_image.png)
+![title image](https://github.com/MarekKap/KK_ansi60/Other/title_image.png)
 
 ## Build instructions
 1. Solder all SMDs parts on PCB.
