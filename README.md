@@ -1,7 +1,7 @@
 # KK_ansi60
 60% mechanical keyboard
 
-KK_ansi60 keyboard is inspired by [GH60 open source keybord](https://github.com/komar007/gh60).
+KK_ansi60 keyboard is inspired by [GH60 open source keyboard](https://github.com/komar007/gh60).
 Case and mounting plate are made from one piece of aluminium alloy. This feature allows very
 solid and compact design. On the other hand only ane switch layout is supported.
 Keyboard support TMK firmware, so everything is open source and customizable. On default there
